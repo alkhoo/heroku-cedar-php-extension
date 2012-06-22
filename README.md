@@ -1,5 +1,5 @@
-heroku-php-imagemagick
-======================
+heroku-cedar-php
+================
 
 Compiled a few library for Heroku's PHP extension - imagick.so, apc.so, gd.so
 
